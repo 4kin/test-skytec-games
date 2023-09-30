@@ -39,12 +39,12 @@ GET http://localhost:8099/clan_id/{clanId}/gold/{gold}
    ![img.png](src/main/resources/img/img.png)
 
 
-2. Тест на правильность подсчета денег 300 000 запросов
+2. Тест на правильность подсчета денег 300 000 запросов  
    ![img_2.png](src/main/resources/img/img_2.png)  
    результат в [data-30000-records.xlsx](common-to-kafka%2Fsrc%2Fmain%2Fresources%2FjMeter%2Fdata-30000-records.xlsx)
 
 
-3. Тест на правильность подсчета денег  >1 000 000 запросов
+3. Тест на правильность подсчета денег  >1 000 000 запросов  
    ![img_3.png](src/main/resources/img/img_3.png)  
    результат
    в [data-1048076-records.xlsx](common-to-kafka%2Fsrc%2Fmain%2Fresources%2FjMeter%2Fdata-1048076-records.xlsx)
