@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BookmarksViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="groupLineBookmarks" value="false" />
+    <option name="rewriteBookmarkType" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99df918b-736c-42fb-b972-e33c0a908a21" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/.idea/bigdataide_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fastRequest/fastRequestCollection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fastRequest/fastRequestCurrentParamGroup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fastRequest/fastRequestCurrentProjectLocalConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fastRequest/fastRequestHistoryConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kubernetes-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/model/Clan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/repo/ClanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/services/ClanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/services/KafkaConsumerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-from-kafka/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-to-kafka/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-to-kafka/src/main/resources/jMeter/data-1048076-records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-to-kafka/src/main/resources/jMeter/data-1048076-records.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-to-kafka/src/main/resources/jMeter/data-30000-records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-to-kafka/src/main/resources/jMeter/data-30000-records.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-to-kafka/src/main/resources/jMeter/data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.fastRequest/collections/Root/common-to-kafka/KafkaController/sendMessage.rapi" beforeDir="false" afterPath="$PROJECT_DIR$/.fastRequest/collections/Root/common-to-kafka/KafkaController/sendMessage.rapi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.fastRequest/config/fastRequestCurrentProjectConfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/.fastRequest/config/fastRequestCurrentProjectConfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-from-kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-from-kafka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/FromKafkaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/FromKafkaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/config/KafkaConsumerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/listeners/KafkaListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-from-kafka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common-from-kafka/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-to-kafka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/configuration/KafkaProducerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/configuration/KafkaProducerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/configuration/KafkaTopicConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/configuration/KafkaTopicConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/model/Clan.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/model/Clan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/model/NewGold.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/services/KafkaMessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-to-kafka/src/main/java/ru/test/skytecgames/services/KafkaMessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common-to-kafka/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/src/main/resources/jMeter/generateMessages.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/common-to-kafka/src/main/resources/jMeter/generateMessages.jmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-to-kafka/zk-single-kafka-multiple.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Vk3qLZ9aP0hwrYCKisWLo5gH58" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/test-skytec-games/common-to-kafka&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;bigdataide_conn_settings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;6165f27b2778de63c49267dff4d20d2d&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\test-skytec-games\common-to-kafka" />
+      <recent name="C:\Users\user\IdeaProjects\test-skytec-games\common-to-kafka\src\main\resources" />
+      <recent name="C:\Users\user\IdeaProjects\test-skytec-games\common-from-kafka\src\main\java\ru\test\skytecgames" />
+      <recent name="C:\Users\user\IdeaProjects\test-skytec-games\common-from-kafka\src\main\resources" />
+      <recent name="C:\Users\user\IdeaProjects\test-skytec-games\common-to-kafka\src\main\java\ru\test\skytecgames" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\test-skytec-games\common-from-kafka\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FromKafkaApplication">
+    <configuration name="schema.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/common-from-kafka/src/main/resources/schema.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="FromKafkaApplication --debug" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="DEBUG_MODE" value="true" />
+      <module name="common-from-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.test.skytecgames.FromKafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToKafkaApplication --debug" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="DEBUG_MODE" value="true" />
+      <module name="common-to-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.test.skytecgames.ToKafkaApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.skytecgames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="common-to-kafka: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="common-to-kafka/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="common-to-kafka.kafka12: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="kafka12" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="common-to-kafka/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="common-to-kafka.kafka1: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="kafka1" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="common-to-kafka/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="common-to-kafka.postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="common-to-kafka/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="common-to-kafka/zk-single-kafka-single.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="common-to-kafka/zk-single-kafka-single.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.schema.sql" />
+      <item itemvalue="Docker.common-to-kafka: Compose Deployment" />
+      <item itemvalue="Docker.common-to-kafka.kafka12: Compose Deployment" />
+      <item itemvalue="Docker.common-to-kafka.kafka1: Compose Deployment" />
+      <item itemvalue="Docker.common-to-kafka.postgres: Compose Deployment" />
+      <item itemvalue="Docker.common-to-kafka/zk-single-kafka-single.yml: Compose Deployment" />
+      <item itemvalue="Spring Boot.FromKafkaApplication" />
+      <item itemvalue="Spring Boot.FromKafkaApplication --debug" />
+      <item itemvalue="Spring Boot.ToKafkaApplication" />
+      <item itemvalue="Spring Boot.ToKafkaApplication --debug" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.common-to-kafka/zk-single-kafka-single.yml: Compose Deployment" />
+        <item itemvalue="Docker.common-to-kafka.kafka1: Compose Deployment" />
+        <item itemvalue="Docker.common-to-kafka.postgres: Compose Deployment" />
+        <item itemvalue="Docker.common-to-kafka.kafka12: Compose Deployment" />
+        <item itemvalue="Database Script.schema.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99df918b-736c-42fb-b972-e33c0a908a21" name="Changes" comment="" />
+      <created>1695366441359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695366441359</updated>
+      <workItem from="1695366442388" duration="2722000" />
+      <workItem from="1695369358527" duration="9815000" />
+      <workItem from="1695383231789" duration="9189000" />
+      <workItem from="1695450455614" duration="2949000" />
+      <workItem from="1695459807828" duration="25564000" />
+      <workItem from="1695678022644" duration="12043000" />
+      <workItem from="1695759984844" duration="11203000" />
+      <workItem from="1695810107643" duration="3036000" />
+      <workItem from="1695814479851" duration="16047000" />
+      <workItem from="1696074234759" duration="2665000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1695467861195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695467861195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <condition expression="records.records(partition).size()&gt;300" language="JAVA" />
+          <url>file://$PROJECT_DIR$/common-from-kafka/src/main/java/ru/test/skytecgames/services/KafkaConsumerService.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="records.records(partition).size()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_skytec_games$ToKafkaApplication.ic" NAME="ToKafkaApplication Coverage Results" MODIFIED="1695806933648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.test.skytecgames.*</FILTER>
+    </SUITE>
+  </component>
+</project>

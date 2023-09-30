@@ -15,9 +15,12 @@ import java.util.Map;
 public class KafkaTopicConfig {
     @Value("${kafka.topic.name}")
     String kafkaTopic;
-
+    @Value("${kafka.topic.replication-factor}")
+    short replicationFactor;
     @Value("${spring.kafka.bootstrap-servers}")
     private String bootstrapAddress;
+    @Value("${kafka.topic.partition}")
+    private int kafkaTopicPartition;
 
     @Bean
     public KafkaAdmin kafkaAdmin() {
@@ -28,8 +31,7 @@ public class KafkaTopicConfig {
 
     @Bean
     public NewTopic topicSkyTecGames() {
-        return new NewTopic(kafkaTopic, 5, (short) 1);
+        return new NewTopic(kafkaTopic, kafkaTopicPartition, replicationFactor);
     }
-
 
 }

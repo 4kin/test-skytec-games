@@ -1,5 +1,6 @@
 package ru.test.skytecgames.services;
 
+import lombok.extern.log4j.Log4j2;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
@@ -10,6 +11,7 @@ import org.springframework.stereotype.Service;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.atomic.AtomicReference;
 
+@Log4j2
 @Service
 public class KafkaMessageService {
 
@@ -23,8 +25,9 @@ public class KafkaMessageService {
     }
 
     public void sendMessage(String clanId, String gold) {
-//        NewGold newGold = new NewGold(clanId,gold);
         ProducerRecord<String, String> record = new ProducerRecord<>(kafkaTopic, clanId, gold);
+//        log.info("Message " + record.value() + " key " + record.key());
+
         kafkaTemplate.send(record);
     }
 
@@ -40,6 +43,4 @@ public class KafkaMessageService {
         });
         return returnString.get();
     }
-
-
 }

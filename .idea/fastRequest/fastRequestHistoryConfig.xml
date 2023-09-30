@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestHistoryConfig">
+    <option name="historyList">
+      <list>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="ConnectException: Connection refused: no further information" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="common-to-kafka" />
+          <option name="method" value="sendMessage" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+              <option name="method" value="sendMessage" />
+              <option name="methodDescription" value="sendMessage" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+              <option name="pathParamsKeyValueListJson" value="[{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;clanId&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;clanId_uvi0f&quot;},{&quot;comment&quot;:&quot;&quot;,&quot;customFlag&quot;:2,&quot;enabled&quot;:true,&quot;key&quot;:&quot;gold&quot;,&quot;type&quot;:&quot;String&quot;,&quot;value&quot;:&quot;gold_u5pz1&quot;}]" />
+              <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8099/clan_id/clanId_uvi0f/gold/gold_u5pz1&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Restful Fast Request/2023.1.9&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+        </ResponseHistory>
+      </list>
+    </option>
+  </component>
+</project>

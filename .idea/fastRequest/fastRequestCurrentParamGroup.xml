@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="ru.test.skytecgames.controller.KafkaController" />
+    <option name="filePath" value="/.fastRequest/collections/ROOT/common-to-kafka/KafkaController~sendMessage.rapi" />
+    <option name="method" value="sendMessage" />
+    <option name="module" value="common-to-kafka" />
+    <option name="originUrl" value="/clan_id/{clanId}/gold/{gold}" />
+    <option name="pathParamMap">
+      <map>
+        <entry key="clanId">
+          <value>
+            <Object />
+          </value>
+        </entry>
+        <entry key="gold">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tempId" value="api_ru.test.skytecgames.controller.KafkaController.sendMessage" />
+    <option name="url" value="/clan_id/clanId_uvi0f/gold/gold_u5pz1" />
+  </component>
+</project>
