@@ -36,7 +36,7 @@ public class KafkaConsumerService {
 
             for (TopicPartition partition : records.partitions()) {
                 Map<String, Integer> collected = records.records(partition).stream().collect(Collectors.groupingBy(record ->
-                        record.key(), Collectors.summingInt(record -> Integer.valueOf(record.value()))));
+                        record.key(), Collectors.summingInt(record -> Integer.parseInt(record.value()))));
                 for (Map.Entry<String, Integer> entry : collected.entrySet()) {
 //                    log.info(String.format("PARTITION = %s ID = %s SUM = %s", partition, entry.getKey(), entry.getValue()));
 
